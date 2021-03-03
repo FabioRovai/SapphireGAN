@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/ie8wWVDkrH6dvsy4Zn/giphy.gif" width="60" height="60"/>  SapphireGAN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FabioRovai/SapphireGAN/blob/main/SapphireGAN.ipynb)
+# <img src="https://media.giphy.com/media/ie8wWVDkrH6dvsy4Zn/giphy.gif" width="60" height="60"/>  SapphireGAN                      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FabioRovai/SapphireGAN/blob/main/SapphireGAN.ipynb)
 
 
 
