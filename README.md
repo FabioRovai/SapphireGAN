@@ -45,11 +45,5 @@ Super-resolution 3x
 Further super-resolution systems are being evaluated to further enhance the result.
 
 
-#Final goal
 
-![alt text](https://i.ibb.co/YQYPqFd/Screenshot-2021-03-03-at-12-30-03-auto-x2-auto-x2-auto-x2.png)
-
-
-
-(Further enhanced at https://letsenhance.io/v2/boost)
 
