@@ -19,6 +19,16 @@ Image and model saving (h5,pkl)
 Image enhancer, instead having 64x64 output we can get decent size images using cv2
 
 
+##Examples
+
+Jenner.zip 
+
+![alt text](https://i.ibb.co/3p4g0Pj/download-2.png)
+
+600 epochs
+
+![alt text](https://i.ibb.co/GpkpYCB/download-3.png)
+
 
 
 
