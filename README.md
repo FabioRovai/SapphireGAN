@@ -8,6 +8,6 @@ Easier and faster upload with a small model
 
 Image and model saving
 
-image enhancer, instead having 64x64 output we can get decent size images
+Image enhancer, instead having 64x64 output we can get decent size images
 
 
