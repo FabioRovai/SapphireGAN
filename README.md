@@ -47,5 +47,8 @@ Further super-resolution systems are being evaluated to further enhance the resu
 #Final goal
 
 ![alt text](https://i.ibb.co/YQYPqFd/Screenshot-2021-03-03-at-12-30-03-auto-x2-auto-x2-auto-x2.png)
-(enhanced at https://letsenhance.io/v2/boost)
+
+
+
+(Further enhanced at https://letsenhance.io/v2/boost)
 
