@@ -46,7 +46,7 @@ Super-resolution 3x
 
 Projection
 
-<img src="https://i.ibb.co/hgySrqV/Screenshot-2021-03-03-at-22-04-50.png" width="260" height="260"/>
+<img src="https://i.ibb.co/hgySrqV/Screenshot-2021-03-03-at-22-04-50.png" width="260" height="160"/>
 
 
 
