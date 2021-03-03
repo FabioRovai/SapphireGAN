@@ -1,4 +1,6 @@
-# :small_blue_diamond::small_blue_diamond: SapphireGAN :small_blue_diamond::small_blue_diamond:
+# :small_blue_diamond::small_blue_diamond: SapphireGAN :small_blue_diamond::small_blue_diamond: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FabioRovai/SapphireGAN/blob/main/SapphireGAN.ipynb)
+
+
 
 This project aims to implement some functions to the DCGan Pytorch official tutorial https://github.com/pytorch/tutorials/blob/master/beginner_source/dcgan_faces_tutorial.py
 
