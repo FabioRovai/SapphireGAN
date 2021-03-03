@@ -35,7 +35,7 @@ Jenner.zip training set
 ![alt text](https://i.ibb.co/GtJ458d/image-00000.png)
 
 
-Super-resolution
+Super-resolution 3x
 
 ![alt text](https://i.ibb.co/bb5Jc4V/6724cd15-5597-4e1b-a57d-6e80ac9c7dd0.png)
 
