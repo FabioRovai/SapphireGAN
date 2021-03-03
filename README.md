@@ -21,13 +21,15 @@ Image enhancer, instead having 64x64 output we can get decent size images using 
 
 ##Examples
 
-Jenner.zip 
+Jenner.zip training set
 
-![alt text](https://i.ibb.co/3p4g0Pj/download-2.png)
+
+![alt text](https://i.ibb.co/GpkpYCB/download-3.png)
+
 
 600 epochs
 
-![alt text](https://i.ibb.co/GpkpYCB/download-3.png)
+![alt text](https://i.ibb.co/3p4g0Pj/download-2.png)
 
 
 
