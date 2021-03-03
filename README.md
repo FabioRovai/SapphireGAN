@@ -1,4 +1,4 @@
-#   SapphireGAN                      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FabioRovai/SapphireGAN/blob/main/SapphireGAN.ipynb) <img src="https://media.giphy.com/media/ie8wWVDkrH6dvsy4Zn/giphy.gif" width="60" height="60"/>
+#   SapphireGAN                      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19ldIyGMqRzUcqiia095zpOa4NYV9CGrS?usp=sharing) <img src="https://media.giphy.com/media/ie8wWVDkrH6dvsy4Zn/giphy.gif" width="60" height="60"/>
 
 
 
@@ -15,9 +15,11 @@ Making DCGANs more accessible, cutting recurring errors and avoiding problematic
 
 Easier and faster upload with a small dataset (jenner.zip, 653 elements)
 
-Image and model saving (h5,pkl)
 
 Image enhancer, instead having 64x64 output we can get decent size images using cv2
+
+
+Image Projection, originally implemented on Stylegan2
 
 
 ## Examples
@@ -40,6 +42,13 @@ Jenner.zip training set
 Super-resolution 3x
 
 ![alt text](https://i.ibb.co/bb5Jc4V/6724cd15-5597-4e1b-a57d-6e80ac9c7dd0.png)
+
+
+Projection
+
+<img src="https://i.ibb.co/hgySrqV/Screenshot-2021-03-03-at-22-04-50.png" width="260" height="260"/>
+
+
 
 
 
