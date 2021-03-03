@@ -12,7 +12,7 @@ Image enhancer, instead having 64x64 output we can get decent size images
 
 
 
-# Instructions:
+
 
 
 
