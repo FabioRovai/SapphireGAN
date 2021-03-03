@@ -5,13 +5,18 @@
 This project aims to implement some functions to the DCGan Pytorch official tutorial https://github.com/pytorch/tutorials/blob/master/beginner_source/dcgan_faces_tutorial.py
 
 
+## Motivation
+
+Making DCGANs more accessible, cutting recurring errors and avoiding problematic directory paths.
+
+
 ## Implementations
 
-Easier and faster upload with a small model (jenner.zip)
+Easier and faster upload with a small dataset (jenner.zip, 653 elements)
 
 Image and model saving (h5,pkl)
 
-Image enhancer, instead having 64x64 output we can get decent size images (using cv2)
+Image enhancer, instead having 64x64 output we can get decent size images using cv2
 
 
 
