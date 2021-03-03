@@ -32,7 +32,12 @@ Jenner.zip training set
 ![alt text](https://i.ibb.co/3p4g0Pj/download-2.png)
 
 
+![alt text](https://i.ibb.co/GtJ458d/image-00000.png)
 
+
+Super-resolution
+
+![alt text](https://i.ibb.co/bb5Jc4V/6724cd15-5597-4e1b-a57d-6e80ac9c7dd0.png)
 
 
 
