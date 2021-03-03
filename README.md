@@ -6,12 +6,14 @@
 This project aims to implement some functions to the DCGan Pytorch official tutorial https://github.com/pytorch/tutorials/blob/master/beginner_source/dcgan_faces_tutorial.py
 
 
-## Motivation
+## Motivation <img src="https://media.giphy.com/media/ie8wWVDkrH6dvsy4Zn/giphy.gif" width="60" height="60"/>
+
 
 Making DCGANs more accessible, cutting recurring errors and avoiding problematic directory paths.
 
 
-## Implementations
+## Implementations <img src="https://media.giphy.com/media/ie8wWVDkrH6dvsy4Zn/giphy.gif" width="60" height="60"/>
+
 
 Easier and faster upload with a small dataset (jenner.zip, 653 elements)
 
@@ -22,7 +24,8 @@ Image enhancer, instead having 64x64 output we can get decent size images using 
 Image Projection, originally implemented on Stylegan2
 
 
-## Examples
+## Examples <img src="https://media.giphy.com/media/ie8wWVDkrH6dvsy4Zn/giphy.gif" width="60" height="60"/>
+
 
 Jenner.zip training set
 
@@ -47,6 +50,7 @@ Super-resolution 3x
 Projection
 
 <img src="https://i.ibb.co/hgySrqV/Screenshot-2021-03-03-at-22-04-50.png" width="260" height="160"/>
+
 
 
 
